@@ -1,6 +1,6 @@
 <h1>Software Engineer</h1>
 
-Hi, I am a developer based out of Dallas FortWorth metroplex area. I am a Computer Science Graduate with over all knowledge of SDLC along with the Technologies and Tools used for it. I specialize in JavaScript & React for the Frontend Development and Java for the Backend. 
+"Hi, I am a developer based out of Dallas FortWorth metroplex area. I am a 🚀 Computer Science graduate with a Bachelor's degree, crafting digital experiences one code at a time. | 🎨 Design enthusiast with a knack for pixel-perfection. | 🌐 HTML, CSS, JS explorer on a mission to create the web of tomorrow. | 🌟 Turning ideas into interactive realities. Welcome to my coding journey!"
 <p>
 If you are interested in learning more, feel free to reach me out on <a href="https://www.linkedin.com/in/urusha-dahal/" rel="nofollow"><img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width="16" style="max-width: 100%;"></a>
 </p>
